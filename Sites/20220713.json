@@ -418,17 +418,6 @@
 		"reverseOrder": false
 	},
 	{
-		"id": 39,
-		"key": "wmcj8",
-		"name": "环亚资源",
-		"api": "http://wmcj8.com/inc/sapi.php",
-		"jiexiUrl": "",
-		"group": "18+",
-		"isActive": true,
-		"status": "可用",
-		"reverseOrder": false
-	},
-	{
 		"id": 40,
 		"key": "shayu",
 		"name": "shayu",
