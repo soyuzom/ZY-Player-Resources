@@ -3,4 +3,7 @@
 
 ### 影视推荐
 ZY-Player 2.6.6版本起,"更新推荐"将从此Repo获取最新影视推荐.
-![Recommendations](./Images/ZY-Player_screenshot1.png) 
+
+源路径：https://raw.iqiq.io/soyuzom/ZY-Player-Resources/main/Sites/zyp01.json
+
+添加到 【设置】-【源管理】-【设置源站接口文件】，然后【编辑源】右上角【重置】即可！
