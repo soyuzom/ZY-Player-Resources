@@ -221,7 +221,7 @@
   {
     "id": 21,
     "key": "putaozy",
-    "name": "葡萄资源",
+    "name": "18+葡萄资源",
     "api": "https://caiji.putaozy.net/inc/api.php",
     "jiexiUrl": "",
     "group": "18+",
@@ -232,7 +232,7 @@
   {
     "id": 22,
     "key": "siwazyw",
-    "name": "丝袜资源",
+    "name": "18+丝袜资源",
     "api": "https://siwazyw.cc/api.php/provide/vod/at/xml",
     "jiexiUrl": "",
     "group": "18+",
@@ -243,7 +243,7 @@
   {
     "id": 23,
     "key": "apilyzy",
-    "name": "老鸭",
+    "name": "18+老鸭",
     "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
     "jiexiUrl": "",
     "group": "18+",
@@ -254,7 +254,7 @@
   {
     "id": 24,
     "key": "huakuiapi",
-    "name": "花魁",
+    "name": "18+花魁",
     "api": "https://caiji.huakuiapi.com/inc/api.php",
     "jiexiUrl": "",
     "group": "18+",
@@ -265,7 +265,7 @@
   {
     "id": 25,
     "key": "apittzy",
-    "name": "探探资源",
+    "name": "18+探探",
     "api": "https://apittzy.com/api.php/provide/vod/at/xml",
     "jiexiUrl": "",
     "group": "18+",
@@ -276,7 +276,7 @@
   {
     "id": 26,
     "key": "kkzy",
-    "name": "KK资源网",
+    "name": "18+KK资源",
     "api": "https://kkzy.me/api.php/provide/vod/at/xmlsea",
     "jiexiUrl": "",
     "group": "18+",
@@ -287,7 +287,7 @@
   {
     "id": 27,
     "key": "maozyapi",
-    "name": "色猫资源",
+    "name": "18+色猫",
     "api": "https://api.maozyapi.com/inc/api.php",
     "jiexiUrl": "",
     "group": "18+",
@@ -298,7 +298,7 @@
   {
     "id": 28,
     "key": "lb",
-    "name": "乐播",
+    "name": "18+乐播",
     "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
     "jiexiUrl": "",
     "group": "18+",
@@ -309,7 +309,7 @@
   {
     "id": 29,
     "key": "bttcj",
-    "name": "BT天堂",
+    "name": "18+BT天堂",
     "api": "http://bttcj.com/inc/sapi.php",
     "jiexiUrl": "",
     "group": "18+",
@@ -320,28 +320,18 @@
   {
     "id": 30,
     "key": "dadizy",
-    "name": "大地资源",
+    "name": "18+大地",
     "api": "https://dadiapi.com/api.php",
     "isActive": false,
     "group": "18+",
     "reverseOrder": false,
     "status": "可用"
   },
+
   {
     "id": 31,
-    "key": "dd",
-    "name": "大地",
-    "api": "https://dadiapi.com/api.php",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": false,
-    "reverseOrder": false,
-    "status": "可用"
-  },
-  {
-    "id": 32,
-    "key": "sy",
-    "name": "shayu",
+    "key": "shayu",
+    "name": "18+Shayu",
     "api": "https://shayuapi.com/api.php/Seacms/vod/",
     "jiexiUrl": "",
     "group": "18+",
