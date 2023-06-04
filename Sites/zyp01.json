@@ -44,27 +44,39 @@
     "reverseOrder": false
   },
   {
-    "key": "sdzyapi",
+    "key": "tiankongapi",
     "id": 5,
+    "name": "天空资源",
+    "api": "http://api.tiankongapi.com/api.php/provide/vod/at/xml/",
+    "group": "影视",
+    "isActive": true,
+    "reverseOrder": true,
+    "status": "可用"
+  },
+  {
+    "key": "sdzyapi",
+    "id": 6,
     "name": "闪电资源",
     "api": "https://sdzyapi.com/api.php/provide/vod/at/xml",
     "jiexiUrl": "",
     "group": "影视",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "yulecj",
-    "id": 6,
+    "id": 7,
     "name": "鱼乐资源",
     "api": "https://api.yulecj.com/api.php/provide/vod/at/xml",
     "jiexiUrl": "",
     "group": "影视",
     "isActive": true,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
-    "id": 7,
+    "id": 8,
     "key": "taopianapi",
     "name": "淘片资源",
     "api": "https://taopianapi.com/home/cjapi/as/mc/vod/xml",
@@ -75,22 +87,12 @@
     "reverseOrder": true
   },
   {
-    "id": 8,
+    "id": 9,
     "key": "yparse",
     "name": "步步高资源",
     "api": "https://api.yparse.com/api/xml",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
-  },
-  {
-    "id": 9,
-    "key": "tiankongapi",
-    "name": "天空资源",
-    "api": "http://api.tiankongapi.com/api.php/provide/vod/at/xml/",
-    "group": "切片",
     "isActive": true,
     "status": "可用",
     "reverseOrder": false
@@ -144,10 +146,10 @@
     "key": "vipmv",
     "name": "天堂资源",
     "api": "http://vipmv.cc/api.php/provide/vod/at/xml",
-    "jiexiUrl": "https://titan.mgtv.com.o8tv.com/jiexi/?url=",
+    "jiexiUrl": "https://jx.xmflv.com/?url=",
     "group": "影视",
     "isActive": false,
-    "status": "可用",
+    "status": "失效",
     "reverseOrder": false
   },
   {
@@ -158,7 +160,7 @@
     "jiexiUrl": "",
     "group": "影视",
     "isActive": false,
-    "status": "可用",
+    "status": "失效",
     "reverseOrder": false
   },
   {
@@ -268,7 +270,8 @@
     "jiexiUrl": "",
     "group": "18+",
     "isActive": false,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "id": 26,
@@ -309,7 +312,8 @@
     "api": "http://www.ggmmzy.com:9999/inc/xml",
     "group": "18+",
     "isActive": false,
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "id": 30,
