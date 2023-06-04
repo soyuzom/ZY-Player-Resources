@@ -19,54 +19,10 @@
     "group": "影视",
     "isActive": true,
     "status": "可用",
-    "reverseOrder": false
+    "reverseOrder": true
   },
   {
     "id": 3,
-    "key": "kuaibozy",
-    "name": "快播资源",
-    "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml",
-    "jiexiUrl": "",
-    "group": "影视",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
-  },
-  {
-    "id": 4,
-    "key": "apibdzy",
-    "name": "百度云资源",
-    "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml",
-    "jiexiUrl": "",
-    "group": "影视",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
-  },
-  {
-    "id": 5,
-    "key": "foxzyapi",
-    "name": "FOX资源",
-    "api": "https://api.foxzyapi.com/api.php/provide/vod/from/foxyun/at/xml",
-    "jiexiUrl": "",
-    "group": "影视",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
-  },
-  {
-    "id": 6,
-    "key": "taopianapi",
-    "name": "淘片资源",
-    "api": "https://taopianapi.com/home/cjapi/as/mc/vod/xml",
-    "jiexiUrl": "",
-    "group": "影视",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
-  },
-  {
-    "id": 7,
     "key": "xinlangapi",
     "name": "新浪资源",
     "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml",
@@ -77,7 +33,7 @@
     "reverseOrder": false
   },
   {
-    "id": 8,
+    "id": 4,
     "key": "lziapi",
     "name": "量子资源",
     "api": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/at/xml",
@@ -88,32 +44,73 @@
     "reverseOrder": false
   },
   {
-    "id": 9,
+    "key": "sdzyapi",
+    "id": 5,
+    "name": "闪电资源",
+    "api": "https://sdzyapi.com/api.php/provide/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "影视",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
     "key": "yulecj",
-    "name": "鱼乐资源网",
+    "id": 6,
+    "name": "鱼乐资源",
     "api": "https://api.yulecj.com/api.php/provide/vod/at/xml",
     "jiexiUrl": "",
     "group": "影视",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
+    "id": 7,
+    "key": "taopianapi",
+    "name": "淘片资源",
+    "api": "https://taopianapi.com/home/cjapi/as/mc/vod/xml",
+    "jiexiUrl": "",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  },
+  {
+    "id": 8,
+    "key": "yparse",
+    "name": "步步高资源",
+    "api": "https://api.yparse.com/api/xml",
+    "jiexiUrl": "",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 9,
+    "key": "tiankongapi",
+    "name": "天空资源",
+    "api": "http://api.tiankongapi.com/api.php/provide/vod/at/xml/",
+    "group": "切片",
     "isActive": true,
     "status": "可用",
     "reverseOrder": false
   },
   {
     "id": 10,
-    "key": "sdzyapi",
-    "name": "闪电资源网",
-    "api": "https://sdzyapi.com/api.php/provide/vod/at/xml",
+    "key": "guangsuapi",
+    "name": "光速资源",
+    "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml",
     "jiexiUrl": "",
     "group": "影视",
     "isActive": true,
     "status": "可用",
-    "reverseOrder": false
+    "reverseOrder": true
   },
   {
     "id": 11,
-    "key": "yparse",
-    "name": "步步高资源",
-    "api": "https://api.yparse.com/api/xml",
+    "key": "apibdzy",
+    "name": "百度云资源",
+    "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml",
     "jiexiUrl": "",
     "group": "影视",
     "isActive": true,
@@ -127,39 +124,40 @@
     "api": "https://ckzy.me/api.php/provide/vod/at/xml",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
   {
     "id": 13,
-    "key": "guangsuapi",
-    "name": "光速资源",
-    "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml",
+    "key": "foxzyapi",
+    "name": "FOX资源",
+    "api": "https://api.foxzyapi.com/api.php/provide/vod/from/foxyun/at/xml",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
   {
     "id": 14,
-    "key": "tiankongapi",
-    "name": "天空资源",
-    "api": "http://api.tiankongapi.com/api.php/provide/vod/at/xml/",
-    "group": "切片",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
-  },
-  {
-    "id": 15,
     "key": "vipmv",
     "name": "天堂资源",
     "api": "http://vipmv.cc/api.php/provide/vod/at/xml",
     "jiexiUrl": "https://titan.mgtv.com.o8tv.com/jiexi/?url=",
     "group": "影视",
-    "isActive": true,
+    "isActive": false,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 15,
+    "key": "kuaibozy",
+    "name": "快播资源",
+    "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "影视",
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -176,28 +174,6 @@
   },
   {
     "id": 17,
-    "key": "ggmmzy",
-    "name": "18+速度资源",
-    "api": "http://www.ggmmzy.com:9999/inc/xml",
-    "useInSearchAll": true,
-    "isActive": false,
-    "group": "18+",
-    "reverseOrder": false,
-    "status": "可用"
-  },
-  {
-    "id": 18,
-    "key": "bttcj.",
-    "name": "18+博天堂",
-    "api": "http://bttcj.com/inc/sapi.php",
-    "useInSearchAll": true,
-    "isActive": false,
-    "group": "18+",
-    "reverseOrder": false,
-    "status": "可用"
-  },
-  {
-    "id": 19,
     "key": "fhapi9",
     "name": "18+番号",
     "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
@@ -208,7 +184,7 @@
     "status": "可用"
   },
   {
-    "id": 20,
+    "id": 18,
     "key": "shayuapi.",
     "name": "18+鲨鱼",
     "api": "http://shayuapi.com/api.php/provide/vod/at/xml/",
@@ -219,7 +195,7 @@
     "status": "可用"
   },
   {
-    "id": 21,
+    "id": 19,
     "key": "putaozy",
     "name": "18+葡萄",
     "api": "https://caiji.putaozy.net/inc/api.php",
@@ -230,7 +206,7 @@
     "reverseOrder": false
   },
   {
-    "id": 22,
+    "id": 20,
     "key": "siwazyw",
     "name": "18+丝袜",
     "api": "https://siwazyw.cc/api.php/provide/vod/at/xml",
@@ -241,7 +217,18 @@
     "reverseOrder": false
   },
   {
-    "id": 23,
+    "id": 21,
+    "key": "shayu",
+    "name": "18+Shayu",
+    "api": "https://shayuapi.com/api.php/Seacms/vod/",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "id": 22,
     "key": "apilyzy",
     "name": "18+老鸭",
     "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
@@ -252,7 +239,7 @@
     "reverseOrder": false
   },
   {
-    "id": 24,
+    "id": 23,
     "key": "huakuiapi",
     "name": "18+花魁",
     "api": "https://caiji.huakuiapi.com/inc/api.php",
@@ -263,7 +250,7 @@
     "reverseOrder": false
   },
   {
-    "id": 25,
+    "id": 24,
     "key": "apittzy",
     "name": "18+探探",
     "api": "https://apittzy.com/api.php/provide/vod/at/xml",
@@ -274,15 +261,24 @@
     "reverseOrder": false
   },
   {
-    "id": 26,
     "key": "kkzy",
-    "name": "18+KK资源",
+    "id": 25,
+    "name": "18+KK",
     "api": "https://kkzy.me/api.php/provide/vod/at/xmlsea",
     "jiexiUrl": "",
     "group": "18+",
     "isActive": false,
-    "status": "可用",
     "reverseOrder": false
+  },
+  {
+    "id": 26,
+    "key": "dadizy",
+    "name": "18+大地",
+    "api": "https://dadiapi.com/api.php",
+    "isActive": false,
+    "group": "18+",
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "id": 27,
@@ -307,24 +303,22 @@
     "reverseOrder": false
   },
   {
+    "key": "ggmmzy",
     "id": 29,
-    "key": "dadizy",
-    "name": "18+大地",
-    "api": "https://dadiapi.com/api.php",
-    "isActive": false,
+    "name": "18+速度",
+    "api": "http://www.ggmmzy.com:9999/inc/xml",
     "group": "18+",
-    "reverseOrder": false,
-    "status": "可用"
+    "isActive": false,
+    "reverseOrder": false
   },
-
   {
     "id": 30,
-    "key": "shayu",
-    "name": "18+Shayu",
-    "api": "https://shayuapi.com/api.php/Seacms/vod/",
-    "jiexiUrl": "",
-    "group": "18+",
+    "key": "bttcj.",
+    "name": "18+博天堂",
+    "api": "http://bttcj.com/inc/sapi.php",
+    "useInSearchAll": true,
     "isActive": false,
+    "group": "18+",
     "reverseOrder": false,
     "status": "可用"
   }
