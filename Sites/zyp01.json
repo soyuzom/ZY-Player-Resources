@@ -166,55 +166,55 @@
   {
     "id": 16,
     "key": "lbapi9",
-    "name": "乐播资源",
+    "name": "18+乐播",
     "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
     "useInSearchAll": true,
-    "isActive": true,
-    "group": "影视",
+    "isActive": false,
+    "group": "18+",
     "reverseOrder": false,
     "status": "可用"
   },
   {
     "id": 17,
     "key": "ggmmzy",
-    "name": "速度资源",
+    "name": "18+速度资源",
     "api": "http://www.ggmmzy.com:9999/inc/xml",
     "useInSearchAll": true,
-    "isActive": true,
-    "group": "影视",
+    "isActive": false,
+    "group": "18+",
     "reverseOrder": false,
     "status": "可用"
   },
   {
     "id": 18,
     "key": "bttcj.",
-    "name": "博天堂",
+    "name": "18+博天堂",
     "api": "http://bttcj.com/inc/sapi.php",
     "useInSearchAll": true,
-    "isActive": true,
-    "group": "影视",
+    "isActive": false,
+    "group": "18+",
     "reverseOrder": false,
     "status": "可用"
   },
   {
     "id": 19,
     "key": "fhapi9",
-    "name": "番号资源",
+    "name": "18+番号",
     "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
     "useInSearchAll": true,
-    "isActive": true,
-    "group": "影视",
+    "isActive": false,
+    "group": "18+",
     "reverseOrder": false,
     "status": "可用"
   },
   {
     "id": 20,
     "key": "shayuapi.",
-    "name": "鲨鱼资源",
+    "name": "18+鲨鱼",
     "api": "http://shayuapi.com/api.php/provide/vod/at/xml/",
     "useInSearchAll": true,
-    "isActive": true,
-    "group": "影视",
+    "isActive": false,
+    "group": "18+",
     "reverseOrder": false,
     "status": "可用"
   },
@@ -297,17 +297,6 @@
   },
   {
     "id": 28,
-    "key": "lb",
-    "name": "18+乐播",
-    "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": false,
-    "status": "可用",
-    "reverseOrder": false
-  },
-  {
-    "id": 29,
     "key": "bttcj",
     "name": "18+BT天堂",
     "api": "http://bttcj.com/inc/sapi.php",
@@ -318,7 +307,7 @@
     "reverseOrder": false
   },
   {
-    "id": 30,
+    "id": 29,
     "key": "dadizy",
     "name": "18+大地",
     "api": "https://dadiapi.com/api.php",
@@ -329,7 +318,7 @@
   },
 
   {
-    "id": 31,
+    "id": 30,
     "key": "shayu",
     "name": "18+Shayu",
     "api": "https://shayuapi.com/api.php/Seacms/vod/",
