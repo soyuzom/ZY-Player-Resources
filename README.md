@@ -6,7 +6,7 @@ https://github.com/Hunlongyu/ZY-Player/releases
 
 ## 订阅地址
 
-#### 完整版：
+#### 完整版：包含18+成人资源
 https://raw.iqiq.io/soyuzom/ZY-Player-Resources/main/Sites/zyp01.json
 
 https://raw.fastgit.ixmu.net/soyuzom/ZY-Player-Resources/main/Sites/zyp01.json
