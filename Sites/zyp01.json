@@ -122,28 +122,17 @@
   },
   {
     "id": 12,
-    "key": "lehootv",
-    "name": "乐活影视",
-    "api": "https://lehootv.com/api.php/provide/vod/at/xml",
-    "jiexiUrl": "",
-    "group": "影视",
-    "isActive": false,
-    "status": "失效",
-    "reverseOrder": true
-  },
-  {
-    "id": 14,
     "key": "ckzy",
     "name": "CK资源",
     "api": "https://ckzy.me/api.php/provide/vod/at/xml",
     "jiexiUrl": "",
     "group": "影视",
-    "isActive": false,
+    "isActive": true,
     "status": "可用",
     "reverseOrder": false
   },
   {
-    "id": 16,
+    "id": 13,
     "key": "foxzyapi",
     "name": "FOX资源",
     "api": "https://api.foxzyapi.com/api.php/provide/vod/from/foxyun/at/xml",
@@ -154,7 +143,7 @@
     "reverseOrder": false
   },
   {
-    "id": 18,
+    "id": 14,
     "key": "kuaibozy",
     "name": "快播资源",
     "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml",
@@ -165,30 +154,7 @@
     "reverseOrder": false
   },
   {
-    "key": "m3u8tv",
-    "id": 19,
-    "name": "M3U8TV",
-    "api": "https://www.zycaiji.net:7788/api.php/provide/vod/",
-    "download": "",
-    "jiexiUrl": "https://jx.m3u8.tv/jiexi/?url=",
-    "group": "影视",
-    "isActive": false,
-    "reverseOrder": false,
-    "status": "失效"
-  },
-  {
-    "id": 20,
-    "key": "lbapi9",
-    "name": "18+乐播",
-    "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
-    "useInSearchAll": true,
-    "isActive": false,
-    "group": "18+",
-    "reverseOrder": false,
-    "status": "可用"
-  },
-  {
-    "id": 21,
+    "id": 15,
     "key": "fhapi9",
     "name": "18+番号",
     "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
@@ -199,7 +165,7 @@
     "status": "可用"
   },
   {
-    "id": 22,
+    "id": 16,
     "key": "shayuapi.",
     "name": "18+鲨鱼",
     "api": "http://shayuapi.com/api.php/provide/vod/at/xml/",
@@ -210,7 +176,7 @@
     "status": "可用"
   },
   {
-    "id": 23,
+    "id": 17,
     "key": "putaozy",
     "name": "18+葡萄",
     "api": "https://caiji.putaozy.net/inc/api.php",
@@ -221,18 +187,7 @@
     "reverseOrder": false
   },
   {
-    "id": 24,
-    "key": "siwazyw",
-    "name": "18+丝袜",
-    "api": "https://siwazyw.cc/api.php/provide/vod/at/xml",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": false,
-    "status": "失效",
-    "reverseOrder": false
-  },
-  {
-    "id": 25,
+    "id": 19,
     "key": "shayu",
     "name": "18+Shayu",
     "api": "https://shayuapi.com/api.php/Seacms/vod/",
@@ -243,7 +198,7 @@
     "status": "可用"
   },
   {
-    "id": 26,
+    "id": 20,
     "key": "apilyzy",
     "name": "18+老鸭",
     "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
@@ -254,10 +209,10 @@
     "reverseOrder": false
   },
   {
-    "id": 27,
-    "key": "huakuiapi",
-    "name": "18+花魁",
-    "api": "https://caiji.huakuiapi.com/inc/api.php",
+    "id": 21,
+    "key": "apittzy",
+    "name": "18+探探",
+    "api": "https://apittzy.com/api.php/provide/vod/at/xml",
     "jiexiUrl": "",
     "group": "18+",
     "isActive": false,
@@ -265,29 +220,7 @@
     "reverseOrder": false
   },
   {
-    "id": 28,
-    "key": "apittzy",
-    "name": "18+探探",
-    "api": "https://apittzy.com/api.php/provide/vod/at/xml",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": false,
-    "status": "失效",
-    "reverseOrder": false
-  },
-  {
-    "key": "kkzy",
-    "id": 29,
-    "name": "18+KK",
-    "api": "https://kkzy.me/api.php/provide/vod/at/xmlsea",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": false,
-    "reverseOrder": false,
-    "status": "可用"
-  },
-  {
-    "id": 30,
+    "id": 22,
     "key": "dadizy",
     "name": "18+大地",
     "api": "https://dadiapi.com/api.php",
@@ -297,7 +230,7 @@
     "status": "可用"
   },
   {
-    "id": 31,
+    "id": 23,
     "key": "maozyapi",
     "name": "18+色猫",
     "api": "https://api.maozyapi.com/inc/api.php",
@@ -308,7 +241,40 @@
     "reverseOrder": false
   },
   {
-    "id": 32,
+    "id": 24,
+    "key": "huakuiapi",
+    "name": "18+花魁",
+    "api": "https://caiji.huakuiapi.com/inc/api.php",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 25,
+    "key": "lbapi9",
+    "name": "18+乐播",
+    "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+    "useInSearchAll": true,
+    "isActive": false,
+    "group": "18+",
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "kkzy",
+    "id": 26,
+    "name": "18+KK",
+    "api": "https://kkzy.me/api.php/provide/vod/at/xmlsea",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "id": 27,
     "key": "bttcj",
     "name": "18+BT天堂",
     "api": "http://bttcj.com/inc/sapi.php",
@@ -320,7 +286,7 @@
   },
   {
     "key": "ggmmzy",
-    "id": 33,
+    "id": 28,
     "name": "18+速度",
     "api": "http://www.ggmmzy.com:9999/inc/xml",
     "group": "18+",
@@ -329,7 +295,7 @@
     "status": "可用"
   },
   {
-    "id": 34,
+    "id": 29,
     "key": "bttcj.",
     "name": "18+博天堂",
     "api": "http://bttcj.com/inc/sapi.php",
