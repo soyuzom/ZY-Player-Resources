@@ -15,7 +15,7 @@ https://raw.iqiq.io/soyuzom/ZY-Player-Resources/main/Sites/zyp01.json
 
 https://raw.fastgit.ixmu.net/soyuzom/ZY-Player-Resources/main/Sites/zyp01.json
 
-#### [3.2.x版影视资源](https://github.com/Hiram-Wong/ZyPlayer) https://github.com/Hiram-Wong/ZyPlayer
+#### 3.2.x版专用 影视资源
 https://raw.iqiq.io/soyuzom/ZY-Player-Resources/main/Sites/zyp03.json
 
 #### 普通版：
