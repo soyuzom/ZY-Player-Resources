@@ -1,8 +1,12 @@
 # ZY-Player-Resources
 提供一些在ZY Player中使用的资源
 
-## ZP Player 下载：
+## ZP Player 2.8.8
 https://github.com/Hunlongyu/ZY-Player/releases
+
+## ZPPlayer 3.2.x
+https://github.com/Hiram-Wong/ZyPlayer/releases
+
 
 ## 订阅地址
 
@@ -10,6 +14,9 @@ https://github.com/Hunlongyu/ZY-Player/releases
 https://raw.iqiq.io/soyuzom/ZY-Player-Resources/main/Sites/zyp01.json
 
 https://raw.fastgit.ixmu.net/soyuzom/ZY-Player-Resources/main/Sites/zyp01.json
+
+#### [3.2.x版影视资源](https://github.com/Hiram-Wong/ZyPlayer) https://github.com/Hiram-Wong/ZyPlayer
+https://raw.iqiq.io/soyuzom/ZY-Player-Resources/main/Sites/zyp03.json
 
 #### 普通版：
 https://raw.iqiq.io/soyuzom/ZY-Player-Resources/main/Sites/zyp02.json
