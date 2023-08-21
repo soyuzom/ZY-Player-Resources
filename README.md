@@ -25,7 +25,8 @@ https://raw.iqiq.io/soyuzom/ZY-Player-Resources/main/Sites/zyp02.json
 https://raw.fastgit.ixmu.net/soyuzom/ZY-Player-Resources/main/Sites/zyp02.json
 
 ## 具体操作：
-添加到 【设置】-【源管理】-【设置源站接口文件】，然后【编辑源】右上角【重置】即可！
+#### 2.8.8版 添加到 【设置】-【源管理】-【设置源站接口文件】，然后【编辑源】右上角【重置】即可！
+#### 3.x.x版 【设置】-【影视配置】-【添加】-【源站接口】 （或者下载json 【文件导入】）
 
 ![Recommendations](./Sereenshot1.jpg)
 
