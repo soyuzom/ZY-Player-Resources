@@ -10,14 +10,14 @@ https://github.com/Hiram-Wong/ZyPlayer/releases
 
 ## 订阅地址
 
-####  完整版：33资源，包含18+成人资源
+####  完整版：46资源，包含13个 18+成人资源
 https://raw.githubusercontent.com/soyuzom/ZY-Player-Resources/main/Sites/zyp01.json
 
 https://raw.iqiq.io/soyuzom/ZY-Player-Resources/main/Sites/zyp01.json
 
 https://raw.fastgit.ixmu.net/soyuzom/ZY-Player-Resources/main/Sites/zyp01.json
 
-#### 普通版：20资源
+#### 普通版：33资源
 https://raw.githubusercontent.com/soyuzom/ZY-Player-Resources/main/Sites/zyp02.json
 
 https://raw.iqiq.io/soyuzom/ZY-Player-Resources/main/Sites/zyp02.json
