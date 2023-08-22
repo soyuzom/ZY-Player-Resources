@@ -163,6 +163,7 @@
     "name": "全网小猫",
     "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/at/xml",
     "playUrl": "https://jx.jsonplayer.com/player/?url=",
+    "jiexiUrl": "https://jx.jsonplayer.com/player/?url=",
     "group": "影视",
     "search": 1,
     "status": true,
@@ -176,6 +177,7 @@
     "name": "全网全站",
     "api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/at/xml",
     "playUrl": "https://jx.jsonplayer.com/player/?url=",
+    "jiexiUrl": "https://jx.jsonplayer.com/player/?url=",
     "group": "影视",
     "search": 1,
     "status": true,
@@ -242,6 +244,7 @@
     "key": "kczyapi",
     "name": "快车",
     "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+    "playUrl": "https://jiexi.kczyapi.com/m3u8/?url=",
     "jiexiUrl": "https://jiexi.kczyapi.com/m3u8/?url=",
     "group": "影视",
     "status": true,
@@ -252,10 +255,11 @@
     "search": 1
   },
   {
-    "key": "3d0b24dd-a7da-5920-8c1e-52d537a44c0f",
+    "key": "kczyapi",
     "name": "快车",
     "api": "https://caiji.kczyapi.com/api.php/provide/vod/?ac=list",
     "playUrl": "https://jiexi.kczyapi.com/m3u8/?url=",
+    "jiexiUrl": "https://jiexi.kczyapi.com/m3u8/?url=",
     "group": "影视",
     "search": 1,
     "status": true,
@@ -265,10 +269,11 @@
     "id": 20
   },
   {
-    "key": "5b9c8d1a-0a18-5957-bdf9-c1697c6efe68",
+    "key": "jyzyapi",
     "name": "金鹰",
     "api": "https://jyzyapi.com/provide/vod/at/xml/",
     "playUrl": "https://hd.iapijy.com/play?url=",
+    "jiexiUrl": "https://hd.iapijy.com/play?url=",
     "group": "影视",
     "search": 1,
     "status": true,
@@ -282,6 +287,7 @@
     "name": "极速",
     "api": "https://jszyapi.com/api.php/provide/vod/at/json",
     "playUrl": "https://jsjiexi.com/play/?url=",
+    "jiexiUrl": "https://jsjiexi.com/play/?url=",
     "group": "影视",
     "search": 1,
     "status": true,
@@ -291,10 +297,11 @@
     "id": 22
   },
   {
-    "key": "51793af6-c923-5504-85db-0ef686624dec",
+    "key": "hhzyapi",
     "name": "火狐",
     "api": "https://hhzyapi.com/api.php/provide/vod/at/json",
     "playUrl": "https://hhjiexi.com/play/?url=",
+    "jiexiUrl": "https://hhjiexi.com/play/?url=",
     "group": "影视",
     "search": 1,
     "status": true,
@@ -361,6 +368,7 @@
     "key": "ffzy",
     "name": "非凡",
     "api": "http://www.ffzy.tv/api.php/provide/vod/",
+    "playUrl": "https://ffzyplayer.com/?url=",
     "jiexiUrl": "https://ffzyplayer.com/?url=",
     "group": "影视",
     "status": true,
@@ -506,7 +514,7 @@
     "id": 38
   },
   {
-    "key": "465e5eb1-47bf-5cf0-873f-ab1bdc0e13f3",
+    "key": "slapibf",
     "name": "18+森林",
     "api": "https://slapibf.com/api.php/provide/vod/at/json",
     "playUrl": "",
@@ -521,7 +529,8 @@
     "key": "maozyapi",
     "name": "18+色猫",
     "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
-    "jiexiUrl": "",
+    "jiexiUrl": "https://jiexi.99mao.xyz/m3u8/?url=",
+    "playUrl": "https://jiexi.99mao.xyz/m3u8/?url=",
     "group": "18+",
     "status": true,
     "type": 1,
@@ -529,7 +538,6 @@
     "reverseOrder": false,
     "isActive": false,
     "resource": 89007,
-    "playUrl": "https://jiexi.99mao.xyz/m3u8/?url=",
     "id": 40
   },
   {
