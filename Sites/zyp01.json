@@ -216,7 +216,8 @@
     "key": "lziapi",
     "name": "量子",
     "api": "http://cj.lziapi.com/api.php/provide/vod/",
-    "jiexiUrl": "",
+    "playUrl": "https://lziplayer.com/?url=",
+    "jiexiUrl": "https://lziplayer.com/?url=",
     "group": "影视",
     "status": true,
     "isActive": true,
@@ -224,20 +225,6 @@
     "id": 17,
     "resource": 67918,
     "search": 1
-  },
-  {
-    "key": "lziapi",
-    "name": "量子",
-    "api": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/at/xml",
-    "jiexiUrl": "",
-    "group": "影视",
-    "isActive": true,
-    "status": true,
-    "reverseOrder": false,
-    "type": 0,
-    "search": 1,
-    "resource": 67904,
-    "id": 18
   },
   {
     "key": "kczyapi",
@@ -252,20 +239,6 @@
     "id": 19,
     "resource": 30210,
     "search": 1
-  },
-  {
-    "key": "kczyapi",
-    "name": "快车",
-    "api": "https://caiji.kczyapi.com/api.php/provide/vod/?ac=list",
-    "playUrl": "https://jiexi.kczyapi.com/m3u8/?url=",
-    "jiexiUrl": "https://jiexi.kczyapi.com/m3u8/?url=",
-    "group": "影视",
-    "search": 1,
-    "status": true,
-    "isActive": true,
-    "type": 1,
-    "resource": 30210,
-    "id": 20
   },
   {
     "key": "jyzyapi",
